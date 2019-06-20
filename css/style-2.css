@@ -55,21 +55,8 @@ body {
   to {opacity: 1};
 }
 
-.modal-header h2, .modal-footer h2 {
-  margin: 0;
-}
-
-.modal-header {
-  background: var(--MainOrange);
-  padding: 1rem;
-  color: var(--MainWhite);
-}
-
-.modal-footer {
-  background: var(--MainOrange);
-  padding: 10px;
-  text-align: center;
-  color: var(--MainWhite);
+.modal-body {
+  padding: 10px 20px;
 }
 
 .closeBtn {
